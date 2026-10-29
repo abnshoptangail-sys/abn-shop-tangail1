@@ -1,0 +1,7 @@
+// Copy this file to config.js and replace with your Supabase project values.
+// Only the project URL and publishable/anon key belong in the browser.
+// NEVER put a service_role/secret key here.
+window.ABN_CONFIG = {
+  SUPABASE_URL: "https://YOUR_PROJECT_REF.supabase.co",
+  SUPABASE_ANON_KEY: "YOUR_SUPABASE_PUBLISHABLE_OR_ANON_KEY"
+};
